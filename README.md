@@ -31,8 +31,6 @@ Projeto em grupo:
 * Antonio Fernando Alcantara Neto
 * Enzo Amaral Santos
 * José Rafael Leite
-* Pedro Paulo Costa da Silva
 * Yago Sá Lobão
-* Yuri Pereira Vieira Evandro
 
 
