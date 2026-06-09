@@ -28,7 +28,8 @@ The player's objective is to find the maze exit before running out of moves.
 ## 🚀 Technologies
 
 * Java
-* Object-Oriented Programming
+* Programming Logic
+* Matrices (2D Arrays)
 * Terminal Interface
 
 ---
